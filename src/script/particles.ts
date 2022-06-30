@@ -66,7 +66,7 @@ const particleGenerator = ({
   colorChange = new Color("#7cd6c8");
 
   data = {
-    text: "Hi Abel Here\nSite Coming Coon",
+    text: "COMING \n SOON",
     // text: "F U T U R E\nI S   N O W",
     amount: 1500,
     particleSize: 1,
